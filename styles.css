@@ -1,0 +1,25 @@
+     body {
+        max-width: 550px;
+  background-color: #BCA0BC;
+  font-family: "Bradley Hand ITC", sans-serif;
+  text-align: left;
+  margin: 0;
+  color: #444;
+}
+.main {
+    margin-top: -100px;
+}
+
+header {
+  font-family: "Curlz MT", serif;
+  text-align: center;
+  background-color: #856084;
+}
+img {
+    margin-left: 350px;
+}
+footer {
+    background-color: #856084;
+    margin-bottom: 50px;
+    text-align: center;
+}
